@@ -1,0 +1,29 @@
+{
+	"title"		:	"Wiremod",
+	"type"		:	"tool",
+	"tags"		:	[ "build", "fun" ],
+	"description":	"A collection of entities connectable by data wires utilizing logical concepts, which allows for the creation of advanced contraptions.",
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt",
+		"*.xcf",
+		".git*",
+		".gitignore",
+		".luacheckrc",
+		".travis.yml",
+		"CODE_OF_CONDUCT.md",
+		"CONTRIBUTING.md",
+		"generate-luacheck.sh",
+		"git-hooks-pre-commit",
+		"gitrid.sh",
+		"license",
+		"readme.md",
+		"SECURITY.md",
+		"wiremod.fgd",
+		"wiremod.jpg",
+		"wiremod.psd"
+	]
+}
